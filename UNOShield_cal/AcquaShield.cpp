@@ -2,7 +2,7 @@
 #include <SoftwareSerial.h>
 
 
-SoftwareSerial mySerial1(5, 3); //RX,TX
+SoftwareSerial mySerial1(5, 4); //RX,TX
 
 SoftwareSerial mySerial2(7, 6); //RX,TX
 
