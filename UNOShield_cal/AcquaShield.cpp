@@ -2,11 +2,11 @@
 #include <SoftwareSerial.h>
 
 
-SoftwareSerial mySerial1(3, 2); //RX,TX
+SoftwareSerial mySerial1(5, 3); //RX,TX
 
-SoftwareSerial mySerial2(5, 4); //RX,TX
+SoftwareSerial mySerial2(7, 6); //RX,TX
 
-SoftwareSerial mySerial3(7, 6); //RX,TX
+SoftwareSerial mySerial3(3, 2); //RX,TX
 
 
 //variável global para definir a variável a ser impressa no display
